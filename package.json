@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mia-duv/bamazon.git"
+  },
+  "author": "mia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mia-duv/bamazon/issues"
+  },
+  "homepage": "https://github.com/mia-duv/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0"
+  }
+}
